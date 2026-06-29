@@ -1,13 +1,18 @@
 const translations = {
     it: {
-        title: "Ciao, sono Luca 👋",
+        title: "Ciao, sono Daniel",
         subtitle: "Backend Developer — Portfolio in costruzione",
         contact: `Contattami: <a href="mailto:luca@daniel-iosipescu.dev">luca@daniel-iosipescu.dev</a>`
     },
     en: {
-        title: "Hi, I'm Luca 👋",
+        title: "Hi, I'm Daniel",
         subtitle: "Backend Developer — Portfolio under construction",
         contact: `Contact me: <a href="mailto:luca@daniel-iosipescu.dev">luca@daniel-iosipescu.dev</a>`
+    },
+    ro: {
+        title: "Salut, sunt Daniel",
+        subtitle: "Dezvoltator Backend — Portofoliu în construcție",
+        contact: `Contactează-mă: <a href="mailto:luca@daniel-iosipescu.dev">luca@daniel-iosipescu.dev</a>`
     }
 };
 
